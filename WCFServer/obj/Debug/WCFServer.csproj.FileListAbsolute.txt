@@ -1,0 +1,7 @@
+E:\PaM.NET Projects\WCFServerClient_Tutorail\WCFServer\bin\Debug\WCFServer.exe.config
+E:\PaM.NET Projects\WCFServerClient_Tutorail\WCFServer\bin\Debug\WCFServer.exe
+E:\PaM.NET Projects\WCFServerClient_Tutorail\WCFServer\bin\Debug\WCFServer.pdb
+E:\PaM.NET Projects\WCFServerClient_Tutorail\WCFServer\obj\Debug\WCFServer.csprojAssemblyReference.cache
+E:\PaM.NET Projects\WCFServerClient_Tutorail\WCFServer\obj\Debug\WCFServer.csproj.CoreCompileInputs.cache
+E:\PaM.NET Projects\WCFServerClient_Tutorail\WCFServer\obj\Debug\WCFServer.exe
+E:\PaM.NET Projects\WCFServerClient_Tutorail\WCFServer\obj\Debug\WCFServer.pdb
